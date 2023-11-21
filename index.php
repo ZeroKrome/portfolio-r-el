@@ -26,7 +26,7 @@
             <a href="#accueil" class="active">Accueil</a>
             <a href="#propos">A-Propos</a>
             <a href="#experience">Expériences</a>
-            <a href="#contact">Me Contacter</a>
+            <a href="mailto:kronnetv83390@gmail.com">Me Contacter</a>
         </nav>
     </header>
     <section class="home" id="home">
@@ -38,9 +38,9 @@
             <h3>et je suis <span>developpeur web</span></h3>
             <br>
             <div class="social">
-                <a href="https://www.facebook.com/profile.php?id=100009009425590"><i class='bx bxl-facebook'></i></a>
-                <a href="https://github.com/ZeroKrome"><i class='bx bxl-github'></i></a>
-                <a href="https://www.linkedin.com/in/mathieu-lemaire-8b394a294/"><i class='bx bxl-linkedin'></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100009009425590" target="_blank"><i class='bx bxl-facebook'></i></a>
+                <a href="https://github.com/ZeroKrome" target="_blank"><i class='bx bxl-github'></i></a>
+                <a href="https://www.linkedin.com/in/mathieu-lemaire-8b394a294/" target="_blank"><i class='bx bxl-linkedin'></i></a>
             </div>
             <a href="/download/CV.pdf" download="" class="btn">Mon CV</a>
         </div>

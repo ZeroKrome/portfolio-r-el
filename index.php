@@ -17,7 +17,7 @@
 
 <body>
     <header class="header">
-        <a href="#" class="logo">Portfolio</a>
+        <a href="#" class="logo">Mathieu Lemaire</a>
 
         <!-- menu du responsive -->
         <i class='bx bx-menu' id="menu-icon"></i>
@@ -26,7 +26,8 @@
             <a href="#accueil" class="active">Accueil</a>
             <a href="#propos">A-Propos</a>
             <a href="#experience">Expériences</a>
-            <a href="mailto:kronnetv83390@gmail.com">Me Contacter</a>
+            <a href="#projet">Mes projet</a>
+            <a href="mailto:kronnetv83390@gmail.com" id="contact">Me Contacter</a>
         </nav>
     </header>
     <section class="home" id="home">
@@ -63,6 +64,17 @@
                 Ce métier m'a toujours attiré et c'est donc dans cette
                 optique que je me suis lancé. </p>
             <a href="#" class="btn">En savoir plus</a>
+        </div>
+    </section>
+    <section>
+        <div class="experience">
+            <h2><span>Mon </span>éxperience</h2>
+            <p></p>
+        </div>
+    </section>
+    <section>
+        <div class="projet">
+
         </div>
     </section>
 

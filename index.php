@@ -22,12 +22,12 @@
         <!-- menu du responsive -->
         <i class='bx bx-menu' id="menu-icon"></i>
 
-        <nav class="navbar propos">
-            <a href="#accueil" class="active">Accueil</a>
-            <a href="#propos">A-Propos</a>
+        <nav class="navbar">
+            <a href="#home" class="active">Accueil</a>
+            <a href="#a-propos">A-Propos</a>
             <a href="#experience">Expériences</a>
             <a href="#projet">Mes projet</a>
-            <a href="mailto:kronnetv83390@gmail.com" id="contact">Me Contacter</a>
+            <a href="mailto:lemaire.mathieu.dev@gmail.com" id="contact">Me Contacter</a>
         </nav>
     </header>
     <section class="home" id="home">
@@ -66,14 +66,14 @@
             <a href="#" class="btn">En savoir plus</a>
         </div>
     </section>
-    <section>
-        <div class="experience">
+    <section class="experience" id="experience">
+        <div>
             <h2><span>Mon </span>éxperience</h2>
             <p></p>
         </div>
     </section>
-    <section>
-        <div class="projet">
+    <section class="projet" id="projet">
+        <div>
 
         </div>
     </section>
